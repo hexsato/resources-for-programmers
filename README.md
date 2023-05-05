@@ -1,13 +1,8 @@
-# Resources for programmers,developer and hacker
+# Resources for programmers and hackers
 So you want to make something and then break them?,find them in here,this resource may not be complete, but there will be updates on this,I try to choose resources that allow beginners to quickly understand.
-this includes learning both low-level and high-level programming languages
+this includes learning both low-level and high-level programming languages,they will explain 
 
-Network:
-- https://docs.openstack.org/mitaka/id/networking-guide/intro.html
-
-Linux:
-- https://tldp.org/LDP/intro-linux/html/index.html
-- https://ryanstutorials.net/linuxtutorial/
+# Programming languages
 
 C++ language:
 - https://www.learncpp.com/
@@ -22,9 +17,18 @@ Assembly Lang:
 - https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming
 
 
+Network:
+- https://docs.openstack.org/mitaka/id/networking-guide/intro.html
+
+Linux:
+- https://tldp.org/LDP/intro-linux/html/index.html
+- https://ryanstutorials.net/linuxtutorial/
+
+
 How to become hacker (reference)
 - https://www.alltechbuzz.net/steps-to-become-master-hacker/#Fundamental_Skills
 
-![Practice](https://user-images.githubusercontent.com/130845102/236460108-93de727d-d0af-4daf-a738-b55390a17ae0.jpg)
+If you want to do hacking stuff,but don't know website which is the best,so this is where you can trace your hacked place,this my favorite website.
+- https://zaratec.io/ctf-practice/
 
 # Make something
