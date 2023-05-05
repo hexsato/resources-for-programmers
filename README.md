@@ -3,16 +3,16 @@ So you want to make something and then break them?,find them in here,this resour
 this includes learning both low-level and high-level programming languages
 
 Network:
--https://docs.openstack.org/mitaka/id/networking-guide/intro.html
+- https://docs.openstack.org/mitaka/id/networking-guide/intro.html
 
 Linux:
--https://tldp.org/LDP/intro-linux/html/index.html
+- https://tldp.org/LDP/intro-linux/html/index.html
 
 C++ lang:
--https://www.learncpp.com/
+- https://www.learncpp.com/
 
 Python lang:
--https://beej.us/guide/bgpython/html/#for-loops-with-strings
+- https://beej.us/guide/bgpython/html/#for-loops-with-strings
 
 Assembly Lang:
 - https://www.investopedia.com/terms/a/assembly-language.asp#toc-how-assembly-languages-work
@@ -22,4 +22,4 @@ Assembly Lang:
 
 
 How to become hacker (reference)
--https://www.alltechbuzz.net/steps-to-become-master-hacker/#Fundamental_Skills
+- https://www.alltechbuzz.net/steps-to-become-master-hacker/#Fundamental_Skills
