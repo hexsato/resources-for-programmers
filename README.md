@@ -7,32 +7,31 @@ this includes learning both low-level and high-level programming languages and o
 # Programming languages
 
 C++ language:
-- https://www.learncpp.com/
+- [Learncpp](https://www.learncpp.com/)
 
 Python language:
-- https://beej.us/guide/bgpython/html/#for-loops-with-strings
+- [Beej's Guide to Python Programming](https://beej.us/guide/bgpython/html/)
 
 Assembly Language:
-- https://www.investopedia.com/terms/a/assembly-language.asp#toc-how-assembly-languages-work
-- https://gpfault.net/posts/asm-tut-0.txt.html
-- https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming
+- [Introduction assembly ](https://www.investopedia.com/terms/a/assembly-language.asp)
+- [Learn x86-64](https://gpfault.net/posts/asm-tut-0.txt.html)
 
 
 # Network
-- https://docs.openstack.org/mitaka/id/networking-guide/intro.html
+
 
 # Linux
-- https://tldp.org/LDP/intro-linux/html/index.html
-- https://ryanstutorials.net/linuxtutorial/
+- [Introduction linux](https://tldp.org/LDP/intro-linux/html/index.html)
+- [Ryantutorials](https://ryanstutorials.net/linuxtutorial/)
 
 
 # How to become hacker (reference and lessons)
-- https://www.alltechbuzz.net/steps-to-become-master-hacker/#Fundamental_Skills
-- https://learn.snyk.io/lessons/
-- https://www.hacksplaining.com/lessons
+- [Become hacker](https://www.alltechbuzz.net/steps-to-become-master-hacker/)
+- [Snyk.io](https://learn.snyk.io/)
+- [Hacksplaining](https://www.hacksplaining.com/lessons)
 
  If you want to do hacking stuff,but don't know website which is the best,so this is where you can trace your hacked place,this my favorite website.
-- https://zaratec.io/ctf-practice/
+- [Zaratec](https://zaratec.io/ctf-practice/)
 
 # Contribute
 if you want to contribute, make sure to categorize the source according to the title provided and the sources are for absolute begginer.
