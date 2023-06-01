@@ -9,14 +9,19 @@ This includes learning both low-level and high-level programming languages and o
 HTML,CSS,JavaScript
 - [Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn)
 
-C Language
+C Programming Language
+- [Learn C](https://data-flair.training/blogs/c-tutorials-home/#tutorials)
 - [C For Absolute Beginner](https://usermanual.wiki/Pdf/CProgrammingAbsoluteBeginnersGuide3rdEditio.424140197.pdf)
 
-C++ Language
+C++ Programming Language
 - [Learncpp](https://www.learncpp.com/)
 
-Python Language
+Java Programming Language
+- [Learn Java](https://data-flair.training/blogs/java-tutorials-home/#tutorials)
+
+Python Programming Language
 - [Beej's Guide to Python Programming](https://beej.us/guide/bgpython/html/)
+- [Learn Python](https://data-flair.training/blogs/python-tutorials-home/)
 
 Assembly Language
 - [Introduction Assembly ](https://www.investopedia.com/terms/a/assembly-language.asp)
