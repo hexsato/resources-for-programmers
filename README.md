@@ -36,8 +36,8 @@ Assembly Language
 - [Introduction Linux](https://tldp.org/LDP/intro-linux/html/index.html)
 - [Ryan Tutorials](https://ryanstutorials.net/linuxtutorial/)
 
-# How To Become Hacker (Reference And Lessons)
-- [Become hacker](https://www.alltechbuzz.net/steps-to-become-master-hacker/)
+# How To Become Hacker (Reference)
+- [Step Become Master Hacker](https://www.alltechbuzz.net/steps-to-become-master-hacker/)
 
 # Basic Hacking 
 - [Snyk.io](https://learn.snyk.io/)
