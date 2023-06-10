@@ -1,7 +1,7 @@
 # Introduction
-Resource for programmers and hackers,i'm decided to write and share for everyone my favorite web where am i can learn this stuff (I didn't learn everything,but interested in everything).
+Resource for programmers,i'm decided to write and share for everyone my favorite web where am i can learn this stuff (I didn't learn everything,but interested in everything).
 
-So you want to make something and then break them?,find them in here,this resource may not be complete, but there will be updates on this,I try to choose resources that allow beginners to quickly understand.
+So you want to make something and then break them?,find them in here,this resource may not be complete, but there will be updates on this or never,I try to choose resources that allow beginners to quickly understand.
 There are resources that are only of PDF type, get used to reading documents that will make you the most powerful among the others.
 This includes learning both low-level and high-level programming languages and other things about computer stuff.
 
@@ -36,11 +36,13 @@ Assembly Language
 - [Introduction Linux](https://tldp.org/LDP/intro-linux/html/index.html)
 - [Ryan Tutorials](https://ryanstutorials.net/linuxtutorial/)
 
-
-# How to become hacker (reference and lessons)
+# How To Become Hacker (Reference And Lessons)
 - [Become hacker](https://www.alltechbuzz.net/steps-to-become-master-hacker/)
+
+# Basic Hacking 
 - [Snyk.io](https://learn.snyk.io/)
 - [Hacksplaining](https://www.hacksplaining.com/lessons)
+- [Game Hacking Academy](https://gamehacking.academy/about)
 
 If you want to do hacking stuff,but don't know website which is the best,so this is where you can trace your hacked place,this is my favorite website.
 - [Zaratec](https://zaratec.io/ctf-practice/)
