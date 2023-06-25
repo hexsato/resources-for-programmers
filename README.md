@@ -26,7 +26,8 @@ Python Programming Language
 Assembly Language
 - [Introduction Assembly ](https://www.investopedia.com/terms/a/assembly-language.asp)
 - [Learn X86-64](https://gpfault.net/posts/asm-tut-0.txt.html)
-- [Intel X86](https://www.cs.virginia.edu/~cr4bd/4630/S2017/x86-doc.pdf)
+- [Intel X86](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
+- [Intel X86 Docs](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)
 
 # Network
 - [CompTIA Network](https://www.howtonetwork.com/comptia-network-study-guide-free/)
@@ -40,12 +41,17 @@ Assembly Language
 - [Step Become Master Hacker](https://www.alltechbuzz.net/steps-to-become-master-hacker/)
 
 # Basic Hacking 
+This is where all begin if you have some experience in programming languages you can deep dive  
+
+Web Hacking
 - [Snyk.io](https://learn.snyk.io/)
 - [Hacksplaining](https://www.hacksplaining.com/lessons)
+
+Game Hacking
 - [Game Hacking Academy](https://gamehacking.academy/about)
 
 If you want to do hacking stuff,but don't know website which is the best,so this is where you can trace your hacked place,this is my favorite website.
 - [Zaratec](https://zaratec.io/ctf-practice/)
 
-# Contribute
-if you want to contribute, make sure to categorize the source according to the title provided and the sources are for absolute beginner.
+# Goals
+
