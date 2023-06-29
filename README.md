@@ -10,6 +10,7 @@ HTML,CSS,JavaScript
 - [Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn)
 
 C Programming Language
+- [Beej's Guide to C Programming](https://beej.us/guide/bgc/html/)
 - [Learn C](https://data-flair.training/blogs/c-tutorials-home/#tutorials)
 - [C For Absolute Beginner](https://usermanual.wiki/Pdf/CProgrammingAbsoluteBeginnersGuide3rdEditio.424140197.pdf)
 
@@ -41,7 +42,8 @@ Assembly Language
 - [Step Become Master Hacker](https://www.alltechbuzz.net/steps-to-become-master-hacker/)
 
 # Basic Hacking 
-This is where all begin if you have some experience in programming languages you can deep dive  
+This is where all begin if you have some experience in programming languages and know how something is built
+you can deep dive  
 
 Web Hacking
 - [Snyk.io](https://learn.snyk.io/)
@@ -54,4 +56,5 @@ If you want to do hacking stuff,but don't know website which is the best,so this
 - [Zaratec](https://zaratec.io/ctf-practice/)
 
 # Goals
+
 
