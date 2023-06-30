@@ -1,7 +1,7 @@
 # Introduction
 Resource for programmers,i'm decided to write and share for everyone my favorite web where am i can learn this stuff (I didn't learn everything,but interested in everything).
 
-So you want to make something and then break them?,find them in here,this resource may not be complete, but there will be updates on this or never,I try to choose resources that allow beginners to quickly understand.
+So you want to make,build something and then break them?,find them in here,this resource may not be complete, but there will be updates on this or never,I try to choose resources that allow beginners to quickly understand.
 There are resources that are only of PDF type, get used to reading documents that will make you the most powerful among the others.
 This includes learning both low-level and high-level programming languages and other things about computer stuff.
 
@@ -9,8 +9,7 @@ This includes learning both low-level and high-level programming languages and o
 HTML,CSS,JavaScript
 - [Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn)
 
-C Programming Language
-- [Beej's Guide to C Programming](https://beej.us/guide/bgc/html/)
+C Programming Language                  
 - [Learn C](https://data-flair.training/blogs/c-tutorials-home/#tutorials)
 - [C For Absolute Beginner](https://usermanual.wiki/Pdf/CProgrammingAbsoluteBeginnersGuide3rdEditio.424140197.pdf)
 
@@ -41,18 +40,9 @@ Assembly Language
 # How To Become Hacker (Reference)
 - [Step Become Master Hacker](https://www.alltechbuzz.net/steps-to-become-master-hacker/)
 
-# Basic Hacking 
+# Basic Hacking(CTF)
 This is where all begin if you have some experience in programming languages and know how something is built
-you can deep dive  
-
-Web Hacking
-- [Snyk.io](https://learn.snyk.io/)
-- [Hacksplaining](https://www.hacksplaining.com/lessons)
-
-Game Hacking
-- [Game Hacking Academy](https://gamehacking.academy/about)
-
-If you want to do hacking stuff,but don't know website which is the best,so this is where you can trace your hacked place,this is my favorite website.
+you can deep dive.If you want to do hacking stuff,but don't know website which is the best,so this is where you can trace your hacked place,this is my favorite website.
 - [Zaratec](https://zaratec.io/ctf-practice/)
 
 # Goals
