@@ -1,19 +1,21 @@
 # Introduction
 Resource for programmers,i'm decided to write and share for everyone my favorite web where am i can learn this stuff (I didn't learn everything,but interested in everything).
 
-So you want to make,build something and then break them?,find them in here,this resource may not be complete, but there will be updates on this or never,I try to choose resources that allow beginners to quickly understand.
+So you want to make and build something interesting,find them in here,this resource may not be complete, but there will be updates on this or never,I try to choose resources that allow beginners to quickly understand and maybe for advanced level
+you should have some basic knowledge of computers and how to install software.
 This includes learning both low-level and high-level programming languages and other things about computer stuff.
 
 # Programming Languages
+
 Web Programming
 - [Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn)
 
 C Programming Language                  
 - [C Programming Language](https://www.techcrashcourse.com/2015/05/c-programming-language-tutorial.html)
-- [C For Absolute Beginner](https://usermanual.wiki/Pdf/CProgrammingAbsoluteBeginnersGuide3rdEditio.424140197.pdf)
-
+- [Beej,s Guide to C Programming](https://beej.us/guide/bgc/)(beta-quality document)
+  
 Rust Programming Language
-- [The Rust Programming Language](https://doc.rust-lang.org/book/)
+- [The Rust Programming Language](https://doc.rust-lang.org/book/) 
 
 C++ Programming Language
 - [Learncpp](https://www.learncpp.com/)
