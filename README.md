@@ -10,18 +10,22 @@ This includes learning both low-level and high-level programming languages and o
 Web Programming
 - [Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn)
 
-C Programming Language                  
-- [C Programming Language](https://www.techcrashcourse.com/2015/05/c-programming-language-tutorial.html)
-- [Beej,s Guide to C Programming](https://beej.us/guide/bgc/)(beta-quality document)
-  
-Rust Programming Language
-- [The Rust Programming Language](https://doc.rust-lang.org/book/) 
+C Programming Language  
+- [C Programming For Beginners](https://en.wikibooks.org/wiki/C_Programming)
+- [C Programming Tutorial](https://www.techcrashcourse.com/2015/05/c-programming-language-tutorial.html)
+- [Beej's Guide to C Programming](https://beej.us/guide/bgc/)(beta-quality document)
 
 C++ Programming Language
 - [Learncpp](https://www.learncpp.com/)
 
+C# Programming Language
+- [C# Programming For Beginners](https://learn.microsoft.com/en-us/training/paths/get-started-c-sharp-part-1/?WT.mc_id=dotnet-35129-website)
+
+Rust Programming Language
+- [The Rust Programming Language](https://doc.rust-lang.org/book/) 
+
 Python Programming Language
-- [Beej's Guide to Python Programming](https://beej.us/guide/bgpython/html/)
+- [Beej's Guide to Python Programming](https://beej.us/guide/bgpython/)
 
 Assembly Language
 - [Introduction Assembly ](https://www.investopedia.com/terms/a/assembly-language.asp)
