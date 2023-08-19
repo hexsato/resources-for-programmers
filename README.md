@@ -1,4 +1,4 @@
-IP# Introduction
+# Introduction
 Resource for programmers,i'm decided to write and share for everyone my favorite web where am i can learn this stuff (I didn't learn everything,but interested in everything).
 
 So you want to make and build something interesting,find them in here,this resource may not be complete, but there will be updates on this or never,I try to choose resources that allow beginners to quickly understand and maybe for advanced level
