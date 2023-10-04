@@ -41,12 +41,7 @@ Assembly Language
 - [Introduction Linux](https://tldp.org/LDP/intro-linux/html/index.html)
 
 # How To Become Hacker (Reference)
-- [Step Become Master Hacker](https://www.alltechbuzz.net/steps-to-become-master-hacker/)
 
-# Basic Hacking(CTF)
-This is where all begin if you have some experience in programming languages and know how something is built
-you can deep dive.If you want to do hacking stuff,but don't know website which is the best,so this is where you can trace your hacked place,this is my favorite website.
-- [Zaratec](https://zaratec.io/ctf-practice/)
 
 # Goals
 
