@@ -28,9 +28,7 @@ Python Programming Language
 - [Beej's Guide to Python Programming](https://beej.us/guide/bgpython/)
 
 Assembly Language
-- [Introduction Assembly ](https://www.investopedia.com/terms/a/assembly-language.asp)
 - [Learn X86-64](https://gpfault.net/posts/asm-tut-0.txt.html)
-- [Intel X86](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 
 # Network
 - [CompTIA Network](https://www.howtonetwork.com/comptia-network-study-guide-free/)
@@ -39,9 +37,6 @@ Assembly Language
 # Linux
 - [Ryan Tutorials](https://ryanstutorials.net/linuxtutorial/)
 - [Introduction Linux](https://tldp.org/LDP/intro-linux/html/index.html)
-
-# How To Become Hacker (Reference)
-
 
 # Goals
 
