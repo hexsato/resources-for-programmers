@@ -3,7 +3,7 @@ Resource for programmers,i'm decided to write and share for everyone my favorite
 
 So you want to make and build something interesting,find them in here,this resource may not be complete, but there will be updates on this or never,I try to choose resources that allow beginners to quickly understand and maybe for advanced level
 you should have some basic knowledge of computers and how to install software.
-This includes learning both low-level and high-level programming languages and other things about computer stuff.
+This includes learning both intermediate-level and high-level programming languages and other things about computer stuff.
 
 # Programming Languages
 
@@ -26,9 +26,6 @@ Rust Programming Language
 
 Python Programming Language
 - [Beej's Guide to Python Programming](https://beej.us/guide/bgpython/)
-
-Assembly Language
-- [Learn X86-64](https://gpfault.net/posts/asm-tut-0.txt.html)
 
 # Network
 - [CompTIA Network](https://www.howtonetwork.com/comptia-network-study-guide-free/)
